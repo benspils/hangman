@@ -9,7 +9,7 @@ Enjoy!
 """
 import random
 
-WORDLIST_FILENAME = "trump_shit.txt"
+WORDLIST_FILENAME = "trump_nonsense.txt"
 
 def loadWords():
     """
